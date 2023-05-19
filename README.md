@@ -1,5 +1,5 @@
 # zedboard_ref
 
 ## Peripheral Diagram
-![](zedboard.png)
+![](zedboard.jpg)
 ![](zedboard-block-diagram.jpg)
